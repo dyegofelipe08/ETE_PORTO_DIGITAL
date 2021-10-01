@@ -1,0 +1,22 @@
+body{
+    background-color: darkolivegreen;
+    margin: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.centralizar{
+    text-align: center;
+}
+p{
+    text-align: justify;
+    line-height: 250%;
+}
+.imagemDireita{
+    float: right;
+    width: 150px;
+    height: 150px;
+}
+.imagemEsquerda{
+    float: left;
+    width: 150px;
+    height: 150px;
+}

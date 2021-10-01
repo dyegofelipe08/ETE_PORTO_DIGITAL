@@ -1,0 +1,31 @@
+/*Fonte, margem, cor de fundo, hiperlink, flutuar, posição do texto, espaçamento entre linhas*/
+
+body{
+    background-color: rgb(139, 169, 224);
+    margin: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+h1{
+    text-align: center;
+}
+em{
+    
+    font-size: 10px;
+}
+p{
+    line-height: 1.6;
+}
+.imagem1{
+    float: right;
+    width: 15%;
+    height: 15%;
+    margin: 10px;
+}
+.imagem2{
+    float: left;
+    width: 10%;
+    height: 10%;
+    margin: 10px;
+}
+

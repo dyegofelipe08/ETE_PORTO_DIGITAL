@@ -1,0 +1,93 @@
+body{
+    font-family: arial, sans-serif;
+    background: #ccc;
+    margin: 0;
+}
+
+/*1ª Parte criar o menu*/
+.menu{
+    display: inline;
+    float: right;
+    margin-top: 20px;
+    margin-right: 50px;
+}
+
+/*2ª Parte criar espaça para a imagem*/
+.banner{
+    background-image: url(../imagens/bg-1.jpg);
+    
+    height: 500px;
+    background-size: cover;
+    background-position: right center;
+    /*border-top: 1px solid transparent;*/
+}
+
+/*3ª Parte criar um container*/
+.container{
+    width: 80%;
+    margin: auto;
+}
+
+/*4ª Parte criar espaço para o conteúdo*/
+.conteudo{
+    margin-top: 10px;
+    background-color: #fff;
+    
+}
+/*5ª Parte do conteúdo*/
+.informa{
+    
+    text-align: justify;
+    padding: 15px;
+    display: block;
+   
+}
+/*6ª Parte posição da imagem*/
+.imagem{
+    float: left;
+    padding-right:15px;
+}
+/*7ª Parte criar um rodapé*/
+footer{
+    height: 80px;
+	color: white;
+	font-size: 14px;
+	text-align: center;
+	background: #6b6c68;
+    position: relative;
+    bottom:0;
+    margin-bottom: 0;
+}
+/*8ª Parte um menu interno*/
+.menu-interno{
+    height: 100px;
+    background-color: #6b6c68;
+    text-align: center;
+    line-height: 80px;
+    color: #fff;
+}
+/*9ª posição do texto interno*/
+.texto{
+    text-align: center;
+}
+
+/*10ª posição mapa*/
+.mapa{
+    margin-top: 5px;
+}
+
+label{
+    display: block;
+}
+
+input{
+    width: 50%;
+    height: 25px;
+}
+
+.item{
+    text-decoration: auto;
+    background-color: #000;
+    padding: 5px;
+    color: #fff;
+}

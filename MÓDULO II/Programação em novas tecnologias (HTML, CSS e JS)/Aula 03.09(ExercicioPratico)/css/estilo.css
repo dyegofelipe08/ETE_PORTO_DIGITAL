@@ -1,0 +1,84 @@
+body{
+    margin: 0;
+    background-color:#ccc;
+    font-family: Arial, sans-serif;
+}
+
+.menu{
+    float: right;
+    margin-top: 20px;
+    margin-right: 50px;
+    display: inline; /*Por que utilizar o display inline aqui? */
+
+}
+.item{
+
+    background-color: black;
+    color: #fff;
+    padding: 5px;
+    text-decoration: auto;
+    
+}
+
+.banner1{
+    background-image:url(../imagens/bg-1.jpg);
+
+    background-size: cover;
+    background-position: right center;
+    height: 500px;
+    
+}
+.banner2{
+    background-image:url(../imagens/bg-2.jpg);
+
+    background-size: cover;
+    background-position: right center;
+    height: 500px;
+    
+}
+.banner3{
+    background-image:url(../imagens/bg-3.jpg);
+
+    background-size: cover;
+    background-position: right center;
+    height: 500px;
+    
+}
+.container{
+    width: 80%;
+    margin: auto;
+}
+.conteudo{  /*poderia utilizar apenas a div conteudo sem a div informa? qual é a desvantagem?*/
+    
+    margin-top: 10px;
+    background-color: #fff;
+  
+
+}
+.informa{
+    text-align: justify;
+    padding: 15px;
+    display: block; /*por que usar o display block?*/
+}
+.imagem{
+    float: left;
+    padding-right: 15px;
+}
+footer{
+    background-color: #6b6c68;
+    height: 80px;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+
+    position: relative;/*Pq utilizar essas três últimas configurações?*/
+    bottom:0;
+    margin-bottom: 0;
+
+}
+h2{
+    text-align: center;
+}
+iframe{
+    margin-top: 5px;
+}

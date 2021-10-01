@@ -1,0 +1,35 @@
+1. Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares
+ela pode comprar.
+Considere:
+US$1.00 = R$3,27
+
+2. Faça um programa que leia a largura e a altura de uma parede em metros, calcule a sua área e a 
+quantidade de tinta necessária para pintá-la, sabendo que cada litro de tinta pinta uma área de 2m²
+
+3.Faça um programa que leia o preço de um produto e mostre o novo preço com 5% de desconto.
+
+4. Faça um programa que leia o salário de um funcionário, nome e sobrenome e mostre todas essas informações
+lidas e seu novo salário com 15% de aumento.
+
+5. Escreva um programa que leia um valor em metros e o exiba convertido em centimetros e milímetros.
+
+6. Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias
+pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60,00 por dia e R$0,15 por 
+km rodado.
+
+7.Sabendo que A=3, B=7 e C=4, informe se as expressões abaixo são verdadeiras ou falsas.
+a) (A+C) > B
+b) B >= (A + 2)
+c) C == (B –A) 
+d) (B + A) <= C
+e) (C+A) > B
+
+8. Suponha que x seja uma variável do tipo inteiro e considere a relação: x % 8 > 5
+Então, para quais valores de x a relação acima tem o valor verdadeiro?
+
+9. Faça um algoritmo que leia a idade de uma pessoa expressa em anos escreva a idade
+dessa pessoa expressa apenas em dias. Considerar ano com 365 dias. 
+
+10.Escreva um algoritmo para ler o número total de eleitores de um município, o número de votos
+brancos, nulos e válidos. Calcular e escrever o percentual que cada um representa em relação ao total
+de eleitores. 

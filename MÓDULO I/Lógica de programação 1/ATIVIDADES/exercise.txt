@@ -1,0 +1,6 @@
+◇Escreva um algoritmo para informar se um aluno foi aprovado ou
+reprovado. Sabe-se que para ser aprovado o aluno não pode ter mais do que 12 faltas.
+
+Crie uma algoritmo que descubra se um valor é par ou ímpar e imprima a mensagem correspondente
+Sendo par para numero par e impar para número impar digitados pelo usuário.
+

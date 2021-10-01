@@ -1,0 +1,31 @@
+package Aula20Set;
+
+public class contaCorrente {
+
+	double quantia, saldo, limite;
+	int numero;
+	boolean contaEspecial = false;
+	
+	
+	public double Sacar(double valor) {
+		this.quantia = valor;
+		if (this.quantia>this.saldo) {
+			System.out.println("Saldo insuficiente!");
+		}
+		else this.saldo -= this.quantia;
+		return this.saldo;
+		
+	}
+	public double Depositar() {
+		return this.saldo += quantia;
+		
+	}
+	
+	public void VerificarLimite() {
+		if (contaEspecial) this.saldo = this.limite;
+		System.out.println("Você utilizou seu limte especial.");
+			
+	}
+	
+	
+}

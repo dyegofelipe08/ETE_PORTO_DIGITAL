@@ -1,0 +1,12 @@
+1.Faça um algoritmo que receba dois números e ao final mostre a soma, subtração, multiplicação e a divisão dos números lidos.
+
+2.A Loja Mamão com Açúcar está vendendo seus produtos em 5 (cinco) prestações sem juros. 
+Faça um algoritmo que receba um valor de uma compra e mostre o valor das prestações.
+
+3.Escreva um algoritmo que leia os tamanhos dos lados de um triângulo e diga se o triângulo é isósceles, equilátero ou escaleno. Um triângulo é isósceles, se dois de seus lados tiverem tamanhos iguais. 
+É equilátero se todos os seus lados forem iguais. E é escaleno se todos os seus lados forem diferentes.
+
+4.Escreva um algoritmo que diga se uma capital brasileira é da região Nordeste ou Sudeste, de acordo com a opção digitada pelo usuário. 
+Em caso de o usuário digitar o nome de uma capital que não esteja entre as opções, escreva que a capital é de outra região.
+
+5.Escreva um algoritmo que leia dois números e diga se o primeiro é divisível pelo segundo.

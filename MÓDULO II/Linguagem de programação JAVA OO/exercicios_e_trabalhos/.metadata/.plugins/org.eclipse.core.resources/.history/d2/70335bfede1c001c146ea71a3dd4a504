@@ -1,0 +1,20 @@
+
+package Aula20Set;
+
+public class testeContaCorrente {
+
+	public static void main(String[] args) {
+		
+		contaCorrente c1 = new contaCorrente();
+		
+		
+		c1.limite = 10000;
+		c1.saldo = 500;
+		
+		c1.Sacar(200);
+		System.out.println(c1.saldo);
+		
+
+	}
+
+}

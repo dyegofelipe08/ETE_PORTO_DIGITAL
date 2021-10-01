@@ -1,0 +1,36 @@
+img{
+    height: 400px;
+}
+.Banner{
+    
+    margin-right: 10%;
+    margin-left: 10%;
+}
+.letrasBanner{
+    color:#b71c1c;
+}
+body{
+    background-color: #ffccbc;
+}
+.container{
+    margin-right: 10%;
+    margin-left: 10%;
+    background-color: #ff8a65;
+    width: 80%;
+    margin-top: 15px;
+    color: #b71c1c;
+}
+footer{
+    text-align: center;
+    padding:5px ;
+    background-color:#ff8a65 ;
+    margin-top: 15px;
+}
+.imgConteudo{
+    width: 450px;
+    height: 315px;
+    float: left;
+    margin-right: 30px;
+    
+
+}
