@@ -4,32 +4,32 @@ public class Zoo {
 
 	public static void main(String[] args) {
 
-		Animal a1 = new Animal();
-		Mamifero a2 = new Mamifero();
-		Peixe a3 = new Peixe();
+		Animal a1 = new Animal("Camelo","Terra","150cm","Amarelo",2.0,4);
+		Mamifero a2 = new Mamifero("Urso do Canadá","Terra","180 cm","Vermelho",0.5,4,"Mel");
+		Peixe a3 = new Peixe("Tubarão","Mar","300 cm","Acinzentado",1.5,0,"Barbatanas e cauda");
 		a1.Nome = "Camelo";
-		a1.Comprimento = "150 cm";
-		a1.Patas = 4;
-		a1.Ambiente = "Terra";
-		a1.Cor = "Amarelo";
-		a1.Ambiente = "Terra";
-		a1.Velocidade = 2.0;
-
-		a2.Nome = "Urso do Canadá";
-		a2.Comprimento = "180 cm";
-		a2.Patas = 4;
-		a2.Ambiente = "Terra";
-		a2.Cor = "Vermelho";
-		a2.Velocidade = 0.5;
-		a2.Alimento = "Mel";
-
-		a3.Nome = "Tubarão";
-		a3.Comprimento = "300 cm";
-		a3.Patas = 0;
-		a3.Ambiente = "Mar";
-		a3.Cor = "Cinza";
-		a3.Velocidade = 1.5;
-		a3.Caracteristicas = "Barbatanas e cauda";
+//		a1.Comprimento = "150 cm";
+//		a1.Patas = 4;
+//		a1.Ambiente = "Terra";
+//		a1.Cor = "Amarelo";
+//		a1.Ambiente = "Terra";
+//		a1.Velocidade = 2.0;
+//
+//		a2.Nome = "Urso do Canadá";
+//		a2.Comprimento = "180 cm";
+//		a2.Patas = 4;
+//		a2.Ambiente = "Terra";
+//		a2.Cor = "Vermelho";
+//		a2.Velocidade = 0.5;
+//		a2.Alimento = "Mel";
+//
+//		a3.Nome = "Tubarão";
+//		a3.Comprimento = "300 cm";
+//		a3.Patas = 0;
+//		a3.Ambiente = "Mar";
+//		a3.Cor = "Cinza";
+//		a3.Velocidade = 1.5;
+//		a3.Caracteristicas = "Barbatanas e cauda";
 
 		System.out.println("ZOO");
 		System.out.println("------------------------------------");
