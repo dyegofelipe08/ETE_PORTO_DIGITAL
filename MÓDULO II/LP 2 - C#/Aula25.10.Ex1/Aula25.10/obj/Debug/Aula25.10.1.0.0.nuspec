@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Aula25.10</id>
+    <version>1.0.0</version>
+    <authors>Aula25.10</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula25.10.Ex1\Aula25.10\bin\Debug\net5.0\Aula25.10.runtimeconfig.json" target="lib\net5.0\Aula25.10.runtimeconfig.json" />
+    <file src="E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula25.10.Ex1\Aula25.10\bin\Debug\net5.0\Aula25.10.dll" target="lib\net5.0\Aula25.10.dll" />
+  </files>
+</package>
