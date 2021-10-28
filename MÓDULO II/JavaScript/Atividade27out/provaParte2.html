@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <!-- Meta tags Obrigatórias -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+        integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+    <title>Parte 02 - Prova</title>
+</head>
+<link rel="stylesheet" href="css/estilo.css">
+
+<body>
+    <h1 class="display-3" style="text-align: center;">Restaurante Porto Digital</h1>
+    <div>
+        <h2 class="display-4" style="text-align: center;">Nosso cardápio:</h2>
+        <table align="center">
+            <tr>
+                <td>
+                    <ul class="list-group">
+                        <li class="list-group-item disabled" style="text-align: center;"><b>Proteínas: </b></li>
+                        <li class="list-group-item">Carne de Sol - R$ 15.00</li>
+                        <li class="list-group-item">Calabresa - R$ 13.00</li>
+                        <li class="list-group-item">Figado acebolado - R$ 14.00</li>
+                        <li class="list-group-item">Bife acebolado - R$ 14.00</li>
+                        <li class="list-group-item">Panqueca de Carne - R$ 14.00</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="list-group">
+                        <li class="list-group-item disabled" style="text-align: center;"><b>Bebidas: </b></li>
+                        <li class="list-group-item">Suco Laranja : R$ 6.00</li>
+                        <li class="list-group-item">Suco Limão : R$ 6.00</li>
+                        <li class="list-group-item">Refrigerante Lata: R$ 6.00</li>
+                        <li class="list-group-item">&nbsp;</li>
+                        <li class="list-group-item">&nbsp;</li>
+                    </ul>
+                </td>
+            </tr>
+            <br>
+        </table>
+        <table align="center">
+            <tr>
+                <td>
+                    <ul class="list-group">
+                        <li class="list-group-item disabled" style="text-align: center;"><b>Acompanhamento 1: </b></li>
+                        <li class="list-group-item">Feijão preto</li>
+                        <li class="list-group-item">Feijão mulatinho</li>
+                        <li class="list-group-item">Feijão macassa</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="list-group">
+                        <li class="list-group-item disabled" style="text-align: center;"><b>Acompanhamento 2 </b></li>
+                        <li class="list-group-item">Arroz branco</li>
+                        <li class="list-group-item">Arroz integral</li>
+                        <li class="list-group-item">&nbsp;</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="list-group">
+                        <li class="list-group-item disabled" style="text-align: center;"><b>Acompanhamento 3</b></li>
+                        <li class="list-group-item">Salada mista</li>
+                        <li class="list-group-item">Vinagrete</li>
+                        <li class="list-group-item">&nbsp;</li>
+                    </ul>
+                </td>
+            </tr>
+            <br>
+        </table><br>
+        <hr>
+        <h4 class="h4">Informações do pedido</h4><br>
+        <table align="center">
+            <tr>
+                <td>&nbsp;</td>
+                <td>
+                    <form>
+                        <select class="form-control">
+                            <option>Selecione a proteína</option>
+                            <option value="">Carne de Sol - R$ 15.00</option>
+                            <option value="">Calabresa - R$ 13.00</option>
+                            <option value="">Figado acebolado - R$ 14.00</option>
+                            <option value="">Bife acebolado - R$ 14.00</option>
+                            <option value="">Panqueca de Carne - R$ 14.00</option>
+                        </select>
+                    </form>
+                </td>
+
+                <td>
+                    <form>
+                        <select class="form-control">
+                            <option>Acompanhamento 1</option>
+                            <option value="">Feijão preto</option>
+                            <option value="">Feijão mulatinho</option>
+                            <option value="">Feijão macassa</option>
+                            <option value="">Não desejo</option>
+
+                        </select>
+                    </form>
+                </td>
+                <td>
+                    <form>
+                        <select class="form-control">
+                            <option>Acompanhamento 2</option>
+                            <option value="">Arroz branco</option>
+                            <option value="">Arroz integral</option>
+                            <option value="">Não desejo</option>
+                        </select>
+                    </form>
+                </td>
+                <td>
+                    <form>
+                        <select class="form-control">
+                            <option>Acompanhamento 3</option>
+                            <option value="">Salada mista</option>
+                            <option value="">Vinagrete</option>
+                            <option value="">Não desejo</option>
+                        </select>
+                    </form>
+                </td>
+                <td>
+                    <form>
+                        <select class="form-control">
+                            <option>Selecione a bebida</option>
+                            <option value="">Suco Laranja : R$ 6.00</option>
+                            <option value="">Suco Laranja : R$ 6.00</option>
+                            <option value="">Refrigerante Lata: R$ 6.00</option>
+                            <option value="">Não desejo</option>
+                        </select>
+                    </form>
+                </td>
+            </tr>
+        </table>
+        <br>
+        <hr>
+        <h4 class="h4">Informações do cliente</h4><br>
+        <div class="divForm">
+            <form>
+                <label for="nome">Nome: </label>
+                <input class="form-control" type="text" placeholder="Digite aqui o seu nome...">
+                <label for="Rua">Rua: </label>
+                <input style="width: 70%;" class="form-control" type="text" placeholder="Rua...">
+                <label for="Rua">Número: </label><br>
+                <input style="width: 30%;" class="form-control" type="text" placeholder="Número...">
+                <label for="contato">Contato:</label>
+                <input style="width: 30%;" class="form-control" type="tel">
+                <label for="formaPagamento">Forma de pagamento:</label>
+                <select class="form-control">
+                    <option>Selecione a forma de pagamento</option>
+                    <option>Dinheiro</option>
+                    <option>Cartão de crédito</option>
+                </select>
+            </form>
+        </div>
+        <hr>
+        <h4 class="h4">Resumo do pedido:</h4><br>
+
+
+        <footer>
+            <p>ESCOLA TÉCNICA ESTADUAL PORTO DIGITAL</p>
+            <p>Atividade (Prova parte 2)</p>
+            <p>Aluno: Dyego Felipe de Oliveira</p>
+            <P>Turma: DS - módulo II</P>
+        </footer>
+
+
+
+
+
+
+
+
+
+        <!-- JavaScript (Opcional) -->
+        <!-- jQuery primeiro, depois Popper.js, depois Bootstrap JS -->
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+            integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+            crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+            integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+            crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
+            integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+            crossorigin="anonymous"></script>
+</body>
+
+</html>
