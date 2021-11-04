@@ -1,0 +1,16 @@
+input[type=email]{
+    width: 20rem;
+
+}
+input[type=password]{
+    width: 20rem;
+   
+}
+.esp{
+    margin-top: 5%;
+    margin-left: 5%;
+}
+.divPrincipal{
+    margin: 5%;
+}
+

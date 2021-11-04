@@ -24,3 +24,13 @@ padding-top: 15px;
 padding-bottom: 15px;
 
 }
+.valorTotal{
+    text-align: center;
+    font-size:2rem;
+    color: red;
+}
+.resPedido{
+    margin:5%;
+    margin-top: 2%;
+    
+}

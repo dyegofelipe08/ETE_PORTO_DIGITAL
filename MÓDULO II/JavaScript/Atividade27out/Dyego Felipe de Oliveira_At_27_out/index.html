@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
         integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 
-    <title>Parte 02 - Prova</title>
+    <title>Restaurante Porto Digital</title>
 </head>
 <link rel="stylesheet" href="css/estilo.css">
 
@@ -79,57 +79,57 @@
                 <td>&nbsp;</td>
                 <td>
                     <form>
-                        <select class="form-control">
-                            <option>Selecione a proteína</option>
-                            <option value="">Carne de Sol - R$ 15.00</option>
-                            <option value="">Calabresa - R$ 13.00</option>
-                            <option value="">Figado acebolado - R$ 14.00</option>
-                            <option value="">Bife acebolado - R$ 14.00</option>
-                            <option value="">Panqueca de Carne - R$ 14.00</option>
+                        <select id="proteina" class="form-control">
+                            <option value="">Selecione a proteína</option>
+                            <option value="15.00">Carne de Sol</option>
+                            <option value="13.00">Calabresa</option>
+                            <option value="14.00">Figado acebolado</option>
+                            <option value="14.00">Bife acebolado</option>
+                            <option value="14.00">Panqueca de Carne</option>
                         </select>
                     </form>
                 </td>
 
                 <td>
                     <form>
-                        <select class="form-control">
-                            <option>Acompanhamento 1</option>
-                            <option value="">Feijão preto</option>
-                            <option value="">Feijão mulatinho</option>
-                            <option value="">Feijão macassa</option>
-                            <option value="">Não desejo</option>
+                        <select id="ac1" class="form-control">
+                            <option value="">Acompanhamento 1</option>
+                            <option>Feijão preto</option>
+                            <option>Feijão mulatinho</option>
+                            <option>Feijão macassa</option>
+                            <option>Não desejo</option>
 
                         </select>
                     </form>
                 </td>
                 <td>
                     <form>
-                        <select class="form-control">
-                            <option>Acompanhamento 2</option>
-                            <option value="">Arroz branco</option>
-                            <option value="">Arroz integral</option>
-                            <option value="">Não desejo</option>
+                        <select id="ac2" class="form-control">
+                            <option value="">Acompanhamento 2</option>
+                            <option>Arroz branco</option>
+                            <option>Arroz integral</option>
+                            <option>Não desejo</option>
                         </select>
                     </form>
                 </td>
                 <td>
                     <form>
-                        <select class="form-control">
-                            <option>Acompanhamento 3</option>
-                            <option value="">Salada mista</option>
-                            <option value="">Vinagrete</option>
-                            <option value="">Não desejo</option>
+                        <select id="ac3" class="form-control">
+                            <option value="">Acompanhamento 3</option>
+                            <option>Salada mista</option>
+                            <option>Vinagrete</option>
+                            <option>Não desejo</option>
                         </select>
                     </form>
                 </td>
                 <td>
                     <form>
-                        <select class="form-control">
-                            <option>Selecione a bebida</option>
-                            <option value="">Suco Laranja : R$ 6.00</option>
-                            <option value="">Suco Laranja : R$ 6.00</option>
-                            <option value="">Refrigerante Lata: R$ 6.00</option>
-                            <option value="">Não desejo</option>
+                        <select id="bebida" class="form-control">
+                            <option value="">Selecione a bebida</option>
+                            <option value="6.00">Suco Laranja</option>
+                            <option value="6.00">Suco Laranja</option>
+                            <option value="6.00">Refrigerante Lata</option>
+                            <option value="0">Não desejo</option>
                         </select>
                     </form>
                 </td>
@@ -141,24 +141,39 @@
         <div class="divForm">
             <form>
                 <label for="nome">Nome: </label>
-                <input class="form-control" type="text" placeholder="Digite aqui o seu nome...">
-                <label for="Rua">Rua: </label>
-                <input style="width: 70%;" class="form-control" type="text" placeholder="Rua...">
-                <label for="Rua">Número: </label><br>
-                <input style="width: 30%;" class="form-control" type="text" placeholder="Número...">
+                <input id="nome" class="form-control" type="text" placeholder="Digite aqui o seu nome...">
+                <label for="rua">Rua: </label>
+                <input id="rua" style="width: 70%;" class="form-control" type="text" placeholder="Rua...">
+                <label for="numero">Número: </label><br>
+                <input id="numero" style="width: 30%;" class="form-control" type="text" placeholder="Número...">
                 <label for="contato">Contato:</label>
-                <input style="width: 30%;" class="form-control" type="tel">
+                <input id="contato" style="width: 30%;" class="form-control" type="tel" placeholder="Telefone...">
                 <label for="formaPagamento">Forma de pagamento:</label>
-                <select class="form-control">
-                    <option>Selecione a forma de pagamento</option>
+                <select id="formaPagemnto" class="form-control">
+                    <option value="">Selecione a forma de pagamento</option>
                     <option>Dinheiro</option>
                     <option>Cartão de crédito</option>
-                </select>
-            </form>
-        </div>
-        <hr>
-        <h4 class="h4">Resumo do pedido:</h4><br>
+                </select><br>
 
+
+            </form>
+            <button type="submit" class="btn btn-primary" onclick="gerarPedido()">Gerar pedido</button>
+        </div>
+
+        <hr>
+        
+            <h4 class="h4">Resumo do pedido:</h4><br>
+            <div class="resPedido">
+            <p class="valorTotal">Valor total: <span id="total"></span></p>
+            <p>Forma de pagamento: <span id="formaPag"></span> </p>
+            <p>Pedido: <br><span id="pedido"></span></p>
+            <p>Informações do cliente:
+                <br><br><span id="resNome"></span> <br>
+                <span id="resTel"></span><br>
+                <span id="resRua"></span><br>
+                <span id="resNumero"></span><br>
+            </p>
+        </div>
 
         <footer>
             <p>ESCOLA TÉCNICA ESTADUAL PORTO DIGITAL</p>
@@ -173,7 +188,7 @@
 
 
 
-
+        <script src="js/script.js"></script>
 
         <!-- JavaScript (Opcional) -->
         <!-- jQuery primeiro, depois Popper.js, depois Bootstrap JS -->

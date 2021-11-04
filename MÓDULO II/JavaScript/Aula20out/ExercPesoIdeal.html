@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    
+    <title>Peso Ideal</title>
+</head>
+<body>
+    <h1>Peso Ideal</h1>
+    <p>
+        <ul>
+            <li>Para homens: 72.7 x h - 58 </li>
+            <li>Para mulheres: 62.1 x h - 44.7</li>
+        </ul>
+        
+    </p>
+    <input type="number" id="altura" placeholder="Digite sua altura..."><br><br>
+    <form>
+        <label for="sexo">Você é homem ou mulher?</label>
+        <input type="radio" name="sexo" id="sexo" value="1">Homem 
+        <input type="radio" name="sexo" id="sexo" value="2" >Mulher<br><br>
+    </form>
+    <button type="submit" onclick= "pIdeal()">Calcular</button>
+
+
+    <h3>Seu peso ideal é: </h3>
+    <p id="result"></p>
+    <p id="inf"></p>
+
+
+</body>
+<script src="Script/script.js" ></script>
+</html>
