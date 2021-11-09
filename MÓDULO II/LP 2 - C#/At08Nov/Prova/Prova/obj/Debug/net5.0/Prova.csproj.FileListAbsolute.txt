@@ -1,0 +1,16 @@
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\At08Nov\Prova\Prova\bin\Debug\net5.0\Prova.exe
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\At08Nov\Prova\Prova\bin\Debug\net5.0\Prova.deps.json
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\At08Nov\Prova\Prova\bin\Debug\net5.0\Prova.runtimeconfig.json
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\At08Nov\Prova\Prova\bin\Debug\net5.0\Prova.runtimeconfig.dev.json
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\At08Nov\Prova\Prova\bin\Debug\net5.0\Prova.dll
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\At08Nov\Prova\Prova\bin\Debug\net5.0\ref\Prova.dll
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\At08Nov\Prova\Prova\bin\Debug\net5.0\Prova.pdb
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\At08Nov\Prova\Prova\obj\Debug\net5.0\Prova.csproj.AssemblyReference.cache
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\At08Nov\Prova\Prova\obj\Debug\net5.0\Prova.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\At08Nov\Prova\Prova\obj\Debug\net5.0\Prova.AssemblyInfoInputs.cache
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\At08Nov\Prova\Prova\obj\Debug\net5.0\Prova.AssemblyInfo.cs
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\At08Nov\Prova\Prova\obj\Debug\net5.0\Prova.csproj.CoreCompileInputs.cache
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\At08Nov\Prova\Prova\obj\Debug\net5.0\Prova.dll
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\At08Nov\Prova\Prova\obj\Debug\net5.0\ref\Prova.dll
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\At08Nov\Prova\Prova\obj\Debug\net5.0\Prova.pdb
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\At08Nov\Prova\Prova\obj\Debug\net5.0\Prova.genruntimeconfig.cache

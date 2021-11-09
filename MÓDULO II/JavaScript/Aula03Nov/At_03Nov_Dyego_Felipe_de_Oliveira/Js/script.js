@@ -1,4 +1,5 @@
 function validaForms(){
+    
     let nome = document.getElementsById("nome");
     let sNome = document.getElementById("sobrenome");
     let rua = document.getElementById("rua");
@@ -9,10 +10,13 @@ function validaForms(){
     let contato1 = document.getElementById("contato1");
     let contato = document.getElementById("contato2");
 
-    if((nome.Value)==""){
-        alert("Nome não informado!")
+    if(nome.value == ""){
+        alert("Digite o seu nome!");
+    }else if(sNome == ""){
+        alert("Digite o seu sobrenome!");
     }
 
+   
 
 
     
