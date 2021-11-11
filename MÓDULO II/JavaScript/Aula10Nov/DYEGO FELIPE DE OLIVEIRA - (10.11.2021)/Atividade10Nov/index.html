@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <!-- Meta tags Obrigatórias -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+        integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <title>Atividade - Gráfico</title>
+</head>
+<style>
+    body {
+        background: #8e9eab;
+        /* fallback for old browsers */
+        background: -webkit-linear-gradient(to right, #eef2f3, #8e9eab);
+        /* Chrome 10-25, Safari 5.1-6 */
+        background: linear-gradient(to right, #eef2f3, #8e9eab);
+        /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    }
+
+    .grafico {
+        width: 300px;
+        height: 300px;
+    }
+
+    .center {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    }
+</style>
+
+<body>
+    <h1 class="display-3" style="text-align: center;">Gráfico</h1>
+
+    <hr>
+
+    <div class="container center">
+        <form>
+
+            <label for="mes">Mês</label><br>
+            <input class="form-control" type="text" placeholder="Digite o mês..." id="mes" style="width: 300px;"><br>
+            <label for="mes">Valor:</label>
+            <input class="form-control" type="text" placeholder="Digite o valor (R$)..." id="valor"
+                style="width: 300px;"><br>
+            <button type="button" class="btn btn-primary" onclick="salvar()">Adicionar dados</button>
+            <button type="button" class="btn btn-primary" onclick="carregar()">Carregar gráfico</button><br>
+        </form>
+    </div>
+    <hr>
+    <h3>Resultados:</h3>
+
+    <div class="grafico center">
+        <canvas id="myChart" width="400" height="400"></canvas>
+    </div>
+
+    <script src="Js/script.js"></script>
+    <!-- JavaScript (Opcional) -->
+    <!-- jQuery primeiro, depois Popper.js, depois Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+        integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
+        integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>

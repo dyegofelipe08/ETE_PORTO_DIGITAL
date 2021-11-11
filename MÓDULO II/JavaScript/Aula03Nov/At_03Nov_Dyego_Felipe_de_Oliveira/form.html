@@ -10,16 +10,16 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
         integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     <link rel="stylesheet" href="css/estilo.css">
-    <title>Atualização cadastral</title>
+    <title>Atualização cadastral - Formulário</title>
 
 
 </head>
 
 <body>
 
-    <h1 class="display-3" style="text-align: center;">Atualização cadastral</h1>
+    <h1 class="display-3" style="text-align: center">Atualização cadastral</h1>
     <div class="divPrincipal">
-        <form method="post" action="cadastroOk.html">
+        <form >
             <div class="row">
                 <div class="col">
                     <label for="nome">Nome:</label>
@@ -27,7 +27,7 @@
                 </div>
                 <div class="col">
                     <label for="sobrenome">Sobrenome:</label>
-                    <input type="text" id="sobrenome"class="form-control" placeholder="Sobrenome"><br>
+                    <input type="text" id="sobrenome" class="form-control" placeholder="Sobrenome"><br>
                 </div>
             </div>
             <label for="endereco">Endereço:</label><br>
@@ -42,20 +42,20 @@
                         placeholder="Número"><br>
                 </div>
             </div>
-            <input style="width: 25rem;" type="text" class="form-control"  id="cidade" placeholder="Cidade"><br>
-            <input style="width: 15rem;" type="text" class="form-control"  id="estado" placeholder="Estado">
+            <input style="width: 25rem;" type="text" class="form-control" id="cidade" placeholder="Cidade"><br>
+            <input style="width: 15rem;" type="text" class="form-control" id="estado" placeholder="Estado">
             <br>
-            <input style="width: 10rem;" type="text" class="form-control"  id="cep" placeholder="CEP"><br><br>
-
+            <input style="width: 10rem;" type="text" class="form-control" id="cep" placeholder="CEP"><br><br>
             <label for="contatos">Contatos:</label>
-            <input style="width: 25rem;" class="form-control" type="text"  id="contato1" placeholder="WhatsApp"><br>
-            <input style="width: 25rem;" class="form-control" type="text"  id="contato2" placeholder="Instagram"><br>
-
-            <button onclick="validaForms()" type="submit" class="btn btn-primary" >Enviar</button><br>
+            <input style="width: 25rem;" class="form-control" type="text" id="contato1" placeholder="WhatsApp"><br>
+            <input style="width: 25rem;" class="form-control" type="text" id="contato2" placeholder="Instagram"><br>
+            <button type="button" class="btn btn-primary" onclick="validacaoForm()">Enviar</button><br>
+            
         </form>
-       
+
        
     </div>
+
 
     <script src="Js/script.js"></script>
 
