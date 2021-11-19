@@ -1,0 +1,16 @@
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula18Nov\Aula18Nov_Exercicios\Exercicio01_Aula\bin\Debug\net5.0\Exercicio01_Aula.exe
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula18Nov\Aula18Nov_Exercicios\Exercicio01_Aula\bin\Debug\net5.0\Exercicio01_Aula.deps.json
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula18Nov\Aula18Nov_Exercicios\Exercicio01_Aula\bin\Debug\net5.0\Exercicio01_Aula.runtimeconfig.json
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula18Nov\Aula18Nov_Exercicios\Exercicio01_Aula\bin\Debug\net5.0\Exercicio01_Aula.runtimeconfig.dev.json
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula18Nov\Aula18Nov_Exercicios\Exercicio01_Aula\bin\Debug\net5.0\Exercicio01_Aula.dll
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula18Nov\Aula18Nov_Exercicios\Exercicio01_Aula\bin\Debug\net5.0\ref\Exercicio01_Aula.dll
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula18Nov\Aula18Nov_Exercicios\Exercicio01_Aula\bin\Debug\net5.0\Exercicio01_Aula.pdb
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula18Nov\Aula18Nov_Exercicios\Exercicio01_Aula\obj\Debug\net5.0\Exercicio01_Aula.csproj.AssemblyReference.cache
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula18Nov\Aula18Nov_Exercicios\Exercicio01_Aula\obj\Debug\net5.0\Exercicio01_Aula.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula18Nov\Aula18Nov_Exercicios\Exercicio01_Aula\obj\Debug\net5.0\Exercicio01_Aula.AssemblyInfoInputs.cache
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula18Nov\Aula18Nov_Exercicios\Exercicio01_Aula\obj\Debug\net5.0\Exercicio01_Aula.AssemblyInfo.cs
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula18Nov\Aula18Nov_Exercicios\Exercicio01_Aula\obj\Debug\net5.0\Exercicio01_Aula.csproj.CoreCompileInputs.cache
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula18Nov\Aula18Nov_Exercicios\Exercicio01_Aula\obj\Debug\net5.0\Exercicio01_Aula.dll
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula18Nov\Aula18Nov_Exercicios\Exercicio01_Aula\obj\Debug\net5.0\ref\Exercicio01_Aula.dll
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula18Nov\Aula18Nov_Exercicios\Exercicio01_Aula\obj\Debug\net5.0\Exercicio01_Aula.pdb
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula18Nov\Aula18Nov_Exercicios\Exercicio01_Aula\obj\Debug\net5.0\Exercicio01_Aula.genruntimeconfig.cache

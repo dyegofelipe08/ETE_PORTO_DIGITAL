@@ -1,0 +1,16 @@
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula17Nov\Exercicio02\Exercício04\bin\Debug\net5.0\Exercício04.exe
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula17Nov\Exercicio02\Exercício04\bin\Debug\net5.0\Exercício04.deps.json
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula17Nov\Exercicio02\Exercício04\bin\Debug\net5.0\Exercício04.runtimeconfig.json
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula17Nov\Exercicio02\Exercício04\bin\Debug\net5.0\Exercício04.runtimeconfig.dev.json
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula17Nov\Exercicio02\Exercício04\bin\Debug\net5.0\Exercício04.dll
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula17Nov\Exercicio02\Exercício04\bin\Debug\net5.0\ref\Exercício04.dll
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula17Nov\Exercicio02\Exercício04\bin\Debug\net5.0\Exercício04.pdb
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula17Nov\Exercicio02\Exercício04\obj\Debug\net5.0\Exercício04.csproj.AssemblyReference.cache
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula17Nov\Exercicio02\Exercício04\obj\Debug\net5.0\Exercício04.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula17Nov\Exercicio02\Exercício04\obj\Debug\net5.0\Exercício04.AssemblyInfoInputs.cache
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula17Nov\Exercicio02\Exercício04\obj\Debug\net5.0\Exercício04.AssemblyInfo.cs
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula17Nov\Exercicio02\Exercício04\obj\Debug\net5.0\Exercício04.csproj.CoreCompileInputs.cache
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula17Nov\Exercicio02\Exercício04\obj\Debug\net5.0\Exercício04.dll
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula17Nov\Exercicio02\Exercício04\obj\Debug\net5.0\ref\Exercício04.dll
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula17Nov\Exercicio02\Exercício04\obj\Debug\net5.0\Exercício04.pdb
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula17Nov\Exercicio02\Exercício04\obj\Debug\net5.0\Exercício04.genruntimeconfig.cache
