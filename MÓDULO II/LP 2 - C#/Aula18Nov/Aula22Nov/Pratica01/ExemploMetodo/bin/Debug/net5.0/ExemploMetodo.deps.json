@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ExemploMetodo/1.0.0": {
+        "runtime": {
+          "ExemploMetodo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExemploMetodo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

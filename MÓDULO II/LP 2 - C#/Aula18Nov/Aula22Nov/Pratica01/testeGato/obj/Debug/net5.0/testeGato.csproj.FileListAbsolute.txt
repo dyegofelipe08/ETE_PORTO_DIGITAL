@@ -1,0 +1,16 @@
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula18Nov\Aula22Nov\Pratica01\testeGato\bin\Debug\net5.0\testeGato.exe
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula18Nov\Aula22Nov\Pratica01\testeGato\bin\Debug\net5.0\testeGato.deps.json
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula18Nov\Aula22Nov\Pratica01\testeGato\bin\Debug\net5.0\testeGato.runtimeconfig.json
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula18Nov\Aula22Nov\Pratica01\testeGato\bin\Debug\net5.0\testeGato.runtimeconfig.dev.json
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula18Nov\Aula22Nov\Pratica01\testeGato\bin\Debug\net5.0\testeGato.dll
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula18Nov\Aula22Nov\Pratica01\testeGato\bin\Debug\net5.0\ref\testeGato.dll
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula18Nov\Aula22Nov\Pratica01\testeGato\bin\Debug\net5.0\testeGato.pdb
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula18Nov\Aula22Nov\Pratica01\testeGato\obj\Debug\net5.0\testeGato.csproj.AssemblyReference.cache
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula18Nov\Aula22Nov\Pratica01\testeGato\obj\Debug\net5.0\testeGato.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula18Nov\Aula22Nov\Pratica01\testeGato\obj\Debug\net5.0\testeGato.AssemblyInfoInputs.cache
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula18Nov\Aula22Nov\Pratica01\testeGato\obj\Debug\net5.0\testeGato.AssemblyInfo.cs
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula18Nov\Aula22Nov\Pratica01\testeGato\obj\Debug\net5.0\testeGato.csproj.CoreCompileInputs.cache
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula18Nov\Aula22Nov\Pratica01\testeGato\obj\Debug\net5.0\testeGato.dll
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula18Nov\Aula22Nov\Pratica01\testeGato\obj\Debug\net5.0\ref\testeGato.dll
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula18Nov\Aula22Nov\Pratica01\testeGato\obj\Debug\net5.0\testeGato.pdb
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\Aula18Nov\Aula22Nov\Pratica01\testeGato\obj\Debug\net5.0\testeGato.genruntimeconfig.cache
