@@ -1,0 +1,16 @@
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\testes_avaliacao\testes_avaliacao\bin\Debug\net5.0\testes_avaliacao.exe
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\testes_avaliacao\testes_avaliacao\bin\Debug\net5.0\testes_avaliacao.deps.json
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\testes_avaliacao\testes_avaliacao\bin\Debug\net5.0\testes_avaliacao.runtimeconfig.json
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\testes_avaliacao\testes_avaliacao\bin\Debug\net5.0\testes_avaliacao.runtimeconfig.dev.json
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\testes_avaliacao\testes_avaliacao\bin\Debug\net5.0\testes_avaliacao.dll
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\testes_avaliacao\testes_avaliacao\bin\Debug\net5.0\ref\testes_avaliacao.dll
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\testes_avaliacao\testes_avaliacao\bin\Debug\net5.0\testes_avaliacao.pdb
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\testes_avaliacao\testes_avaliacao\obj\Debug\net5.0\testes_avaliacao.csproj.AssemblyReference.cache
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\testes_avaliacao\testes_avaliacao\obj\Debug\net5.0\testes_avaliacao.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\testes_avaliacao\testes_avaliacao\obj\Debug\net5.0\testes_avaliacao.AssemblyInfoInputs.cache
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\testes_avaliacao\testes_avaliacao\obj\Debug\net5.0\testes_avaliacao.AssemblyInfo.cs
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\testes_avaliacao\testes_avaliacao\obj\Debug\net5.0\testes_avaliacao.csproj.CoreCompileInputs.cache
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\testes_avaliacao\testes_avaliacao\obj\Debug\net5.0\testes_avaliacao.dll
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\testes_avaliacao\testes_avaliacao\obj\Debug\net5.0\ref\testes_avaliacao.dll
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\testes_avaliacao\testes_avaliacao\obj\Debug\net5.0\testes_avaliacao.pdb
+E:\DEV SISTEMAS\CURSOS\ETE Porto Digital\ETE_PORTO_DIGITAL\MÓDULO II\LP 2 - C#\testes_avaliacao\testes_avaliacao\obj\Debug\net5.0\testes_avaliacao.genruntimeconfig.cache

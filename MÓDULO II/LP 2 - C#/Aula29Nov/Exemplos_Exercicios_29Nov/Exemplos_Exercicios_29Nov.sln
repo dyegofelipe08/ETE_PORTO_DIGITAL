@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex_encapsulamento_Pessoa", "Ex_Modificadores\Ex_encapsulamento_Pessoa.csproj", "{43F11F48-F379-4D36-B7C2-5E1229A211C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exemplo_encaps_quadrilatero", "Exemplo_encaps_quadrilatero\Exemplo_encaps_quadrilatero.csproj", "{F34593EB-0151-486B-AAA6-4054641E79F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43F11F48-F379-4D36-B7C2-5E1229A211C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43F11F48-F379-4D36-B7C2-5E1229A211C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43F11F48-F379-4D36-B7C2-5E1229A211C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43F11F48-F379-4D36-B7C2-5E1229A211C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F34593EB-0151-486B-AAA6-4054641E79F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F34593EB-0151-486B-AAA6-4054641E79F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F34593EB-0151-486B-AAA6-4054641E79F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F34593EB-0151-486B-AAA6-4054641E79F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1659503E-4498-4063-9A08-3FC808680171}
+	EndGlobalSection
+EndGlobal
