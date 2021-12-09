@@ -23,7 +23,7 @@ import javax.swing.JTextField;
    	 JTextField TfNome, TfSobrenome, TfCpf, TfEndereco, TfNumero, TfDataNasc, TfTel, TfEmail, TfRg,
    	 TfCidade, TfEstado, TfBairro, TfComplemento;
    	 
-   	 PessoaForm pessoa = new PessoaForm ();
+   	 Pessoa pessoa = new Pessoa ();
    	
 
    	 public Formulario() {
@@ -248,8 +248,6 @@ import javax.swing.JTextField;
 
    	 new Formulario();
    	 
-   	 
-   	 
 
     }
 
@@ -262,66 +260,17 @@ import javax.swing.JTextField;
 			pessoa.setSobrenome(TfSobrenome.getText());
 			pessoa.setCpf(TfCpf.getText());
 			pessoa.setEndereco(TfEndereco.getText());
+			pessoa.setNumero(TfNumero.getText());
+			pessoa.setDataNascimento(TfDataNasc.getText());
+			pessoa.setTelefone(TfTel.getText());
+			pessoa.setEmail(TfEmail.getText());
+			pessoa.setRg(TfRg.getText());
+			pessoa.setCidade(TfCidade.getText());
+			pessoa.setEstado(TfEstado.getText());
+			pessoa.setBairro(TfBairro.getText());
+			pessoa.setComplemento(TfComplemento.getText());
+			pessoa.validarForm();
 			
-			
-			
-			
-			String nome = TfNome.getText();
-			String sobrenome = TfSobrenome.getText();
-			String cpf = TfCpf.getText();
-			String endereco = TfEndereco.getText();
-			String numero = TfNumero.getText();
-			String dataNascimento = TfDataNasc.getText();
-			String telefone = TfTel.getText();
-			String email = TfEmail.getText();
-			String rg = TfRg.getText();
-			String cidade = TfCidade.getText();
-			String estado = TfEstado.getText();
-			String bairro  = TfBairro.getText();
-			String complemento = TfComplemento.getText();
-			
-			if (pessoa.getNome().isEmpty()) {
-				JOptionPane.showMessageDialog(null, "Preencha o campo nome!"); 
-				
-			}
-			else if(sobrenome.isEmpty()) {
-				JOptionPane.showMessageDialog(null, "Preencha o campo Sobrenome!"); 
-			}
-			else if(cpf.isEmpty()) {
-				JOptionPane.showMessageDialog(null, "Preencha o campo CPF!"); 
-			}
-			else if(endereco.isEmpty()) {
-				JOptionPane.showMessageDialog(null, "Preencha o campo Endereço!"); 
-			}
-			else if(numero.isEmpty()) {
-				JOptionPane.showMessageDialog(null, "Preencha o campo Número!"); 
-			}
-			else if(dataNascimento.isEmpty()) {
-				JOptionPane.showMessageDialog(null, "Preencha o campo Data de nascimento!"); 
-			}
-			else if(telefone.isEmpty()) {
-				JOptionPane.showMessageDialog(null, "Preencha o campo Telefone!"); 
-			}
-			else if(email.isEmpty()) {
-				JOptionPane.showMessageDialog(null, "Preencha o campo E-mail!"); 
-			}
-			else if(rg.isEmpty()) {
-				JOptionPane.showMessageDialog(null, "Preencha o campo RG!"); 
-			}
-			else if(cidade.isEmpty()) {
-				JOptionPane.showMessageDialog(null, "Preencha o campo Cidade!"); 
-			}
-			else if(estado.isEmpty()) {
-				JOptionPane.showMessageDialog(null, "Preencha o campo Estado!"); 
-			}
-			else if(bairro.isEmpty()) {
-				JOptionPane.showMessageDialog(null, "Preencha o campo Sobrenome!"); 
-			}
-			else {
-				JOptionPane.showMessageDialog(null, "Dados cadastrados com sucesso!"); 
-			}
-			
-
 			
 		}else if(e.getSource() == BtListar) {
 			
