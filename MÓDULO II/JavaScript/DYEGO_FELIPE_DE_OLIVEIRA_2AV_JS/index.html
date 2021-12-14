@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Atividade - Gráfico</title>
+</head>
+
+<body>
+    <header>
+        <div class="card bg-dark text-white">
+            <img class="card-img" src="imagens/livraria_card_titulo.jpg" alt="Imagem do card">
+            <div class="card-img-overlay">
+                <h5 class="card-title text-center display-1 pt-5">Livraria ETEPD</h5>
+            </div>
+        </div>
+    </header>
+    <div class="container-fluid  corpo py-4 text-center text-dark">
+       <h3 class="display-4 pt-4">Cadastro de livros por departamento</h3><br>
+        <div class="d-flex justify-content-center">
+            <form>
+                <label for="mes" class="lead">Departamentos da livraria:</label><br>
+                <input class="form-control" type="text" placeholder="Nome do departamento..." id="depart"
+                    style="width: 300px;"><br>
+                <label for="mes" class="lead">Quantidade de livros:</label>
+                <input class="form-control" type="text" placeholder="Quantidade de livros..." id="quant"
+                    style="width: 300px;"><br>
+                <button type="button" class="btn btn-primary" onclick="salvar()">Adicionar dados</button>
+                <button type="button" class="btn btn-primary" onclick="carregar()">Carregar gráfico</button><br>
+            </form>
+
+        </div>
+        <div>
+            <p id="result" class="display-4"></p>
+
+            <div class="grafico center py-4 d-flex justify-content-center ">
+
+                <canvas id="myChart" width="600" height="400"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <footer class=" container-fluid text-center text-white lead">
+        <p>Escola técnica Estadual Porto Digital</p>
+        <p>Aluno: Dyego Felipe de Oliveira</p>
+        <p>Curso: Desenvolvimento de sistemas</p>
+        <p>Módulo II</p>
+        
+
+    </footer>
+
+    <script src="Js/script.js"></script>
+    <!-- JavaScript (Opcional) -->
+    <!-- jQuery primeiro, depois Popper.js, depois Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+        integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+        crossorigin="anonymous"></script>
+
+</body>
+
+</html>

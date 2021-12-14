@@ -1,0 +1,29 @@
+body {
+    background-color: #bcaaa4;
+
+}
+
+.grafico {
+    width: 500px;
+    height: 300px;
+}
+
+.center {
+    display: flexbox;
+    justify-content: center;
+    align-items: center;
+}
+.corpo{
+    background: #abbaab;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #ffffff, #abbaab);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #ffffff, #abbaab); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+footer{
+    background: #603813;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #b29f94, #603813);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #b29f94, #603813); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+margin-bottom: 0px;
+padding-top: 30px;
+padding-bottom:30px;
+}
